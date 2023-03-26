@@ -39,6 +39,16 @@ Partial Class Form1
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Button5 = New System.Windows.Forms.Button()
         Me.Label4 = New System.Windows.Forms.Label()
+        Me.btn9 = New System.Windows.Forms.Button()
+        Me.btn8 = New System.Windows.Forms.Button()
+        Me.btn7 = New System.Windows.Forms.Button()
+        Me.btn6 = New System.Windows.Forms.Button()
+        Me.btn5 = New System.Windows.Forms.Button()
+        Me.btn4 = New System.Windows.Forms.Button()
+        Me.btn3 = New System.Windows.Forms.Button()
+        Me.btn2 = New System.Windows.Forms.Button()
+        Me.btn1 = New System.Windows.Forms.Button()
+        Me.lblEstado = New System.Windows.Forms.Label()
         CType(Me.AxWinsock1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.AxWinsock2, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -46,7 +56,7 @@ Partial Class Form1
         'AxWinsock1
         '
         Me.AxWinsock1.Enabled = True
-        Me.AxWinsock1.Location = New System.Drawing.Point(160, 288)
+        Me.AxWinsock1.Location = New System.Drawing.Point(158, 493)
         Me.AxWinsock1.Name = "AxWinsock1"
         Me.AxWinsock1.OcxState = CType(resources.GetObject("AxWinsock1.OcxState"), System.Windows.Forms.AxHost.State)
         Me.AxWinsock1.Size = New System.Drawing.Size(28, 28)
@@ -69,7 +79,7 @@ Partial Class Form1
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(28, 249)
+        Me.Button1.Location = New System.Drawing.Point(26, 454)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(99, 33)
         Me.Button1.TabIndex = 3
@@ -78,7 +88,7 @@ Partial Class Form1
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(26, 288)
+        Me.Button2.Location = New System.Drawing.Point(24, 493)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(101, 31)
         Me.Button2.TabIndex = 4
@@ -105,7 +115,7 @@ Partial Class Form1
         '
         'Button3
         '
-        Me.Button3.Location = New System.Drawing.Point(298, 279)
+        Me.Button3.Location = New System.Drawing.Point(296, 484)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(101, 31)
         Me.Button3.TabIndex = 9
@@ -114,7 +124,7 @@ Partial Class Form1
         '
         'Button4
         '
-        Me.Button4.Location = New System.Drawing.Point(300, 240)
+        Me.Button4.Location = New System.Drawing.Point(298, 445)
         Me.Button4.Name = "Button4"
         Me.Button4.Size = New System.Drawing.Size(99, 33)
         Me.Button4.TabIndex = 8
@@ -139,7 +149,7 @@ Partial Class Form1
         'AxWinsock2
         '
         Me.AxWinsock2.Enabled = True
-        Me.AxWinsock2.Location = New System.Drawing.Point(509, 286)
+        Me.AxWinsock2.Location = New System.Drawing.Point(507, 491)
         Me.AxWinsock2.Name = "AxWinsock2"
         Me.AxWinsock2.OcxState = CType(resources.GetObject("AxWinsock2.OcxState"), System.Windows.Forms.AxHost.State)
         Me.AxWinsock2.Size = New System.Drawing.Size(28, 28)
@@ -147,7 +157,7 @@ Partial Class Form1
         '
         'TextBox5
         '
-        Me.TextBox5.Location = New System.Drawing.Point(430, 249)
+        Me.TextBox5.Location = New System.Drawing.Point(428, 454)
         Me.TextBox5.Name = "TextBox5"
         Me.TextBox5.Size = New System.Drawing.Size(157, 20)
         Me.TextBox5.TabIndex = 12
@@ -155,7 +165,7 @@ Partial Class Form1
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(435, 231)
+        Me.Label3.Location = New System.Drawing.Point(433, 436)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(17, 13)
         Me.Label3.TabIndex = 13
@@ -163,7 +173,7 @@ Partial Class Form1
         '
         'Button5
         '
-        Me.Button5.Location = New System.Drawing.Point(616, 135)
+        Me.Button5.Location = New System.Drawing.Point(628, 481)
         Me.Button5.Name = "Button5"
         Me.Button5.Size = New System.Drawing.Size(84, 55)
         Me.Button5.TabIndex = 14
@@ -179,11 +189,102 @@ Partial Class Form1
         Me.Label4.TabIndex = 15
         Me.Label4.Text = "Label4"
         '
+        'btn9
+        '
+        Me.btn9.Location = New System.Drawing.Point(755, 243)
+        Me.btn9.Name = "btn9"
+        Me.btn9.Size = New System.Drawing.Size(75, 75)
+        Me.btn9.TabIndex = 24
+        Me.btn9.UseVisualStyleBackColor = True
+        '
+        'btn8
+        '
+        Me.btn8.Location = New System.Drawing.Point(662, 243)
+        Me.btn8.Name = "btn8"
+        Me.btn8.Size = New System.Drawing.Size(75, 75)
+        Me.btn8.TabIndex = 23
+        Me.btn8.UseVisualStyleBackColor = True
+        '
+        'btn7
+        '
+        Me.btn7.Location = New System.Drawing.Point(570, 243)
+        Me.btn7.Name = "btn7"
+        Me.btn7.Size = New System.Drawing.Size(75, 75)
+        Me.btn7.TabIndex = 22
+        Me.btn7.UseVisualStyleBackColor = True
+        '
+        'btn6
+        '
+        Me.btn6.Location = New System.Drawing.Point(755, 162)
+        Me.btn6.Name = "btn6"
+        Me.btn6.Size = New System.Drawing.Size(75, 75)
+        Me.btn6.TabIndex = 21
+        Me.btn6.UseVisualStyleBackColor = True
+        '
+        'btn5
+        '
+        Me.btn5.Location = New System.Drawing.Point(662, 162)
+        Me.btn5.Name = "btn5"
+        Me.btn5.Size = New System.Drawing.Size(75, 75)
+        Me.btn5.TabIndex = 20
+        Me.btn5.UseVisualStyleBackColor = True
+        '
+        'btn4
+        '
+        Me.btn4.Location = New System.Drawing.Point(570, 162)
+        Me.btn4.Name = "btn4"
+        Me.btn4.Size = New System.Drawing.Size(75, 75)
+        Me.btn4.TabIndex = 19
+        Me.btn4.UseVisualStyleBackColor = True
+        '
+        'btn3
+        '
+        Me.btn3.Location = New System.Drawing.Point(755, 81)
+        Me.btn3.Name = "btn3"
+        Me.btn3.Size = New System.Drawing.Size(75, 75)
+        Me.btn3.TabIndex = 18
+        Me.btn3.UseVisualStyleBackColor = True
+        '
+        'btn2
+        '
+        Me.btn2.Location = New System.Drawing.Point(662, 81)
+        Me.btn2.Name = "btn2"
+        Me.btn2.Size = New System.Drawing.Size(75, 75)
+        Me.btn2.TabIndex = 17
+        Me.btn2.UseVisualStyleBackColor = True
+        '
+        'btn1
+        '
+        Me.btn1.Location = New System.Drawing.Point(570, 81)
+        Me.btn1.Name = "btn1"
+        Me.btn1.Size = New System.Drawing.Size(75, 75)
+        Me.btn1.TabIndex = 16
+        Me.btn1.UseVisualStyleBackColor = True
+        '
+        'lblEstado
+        '
+        Me.lblEstado.AutoSize = True
+        Me.lblEstado.Location = New System.Drawing.Point(567, 40)
+        Me.lblEstado.Name = "lblEstado"
+        Me.lblEstado.Size = New System.Drawing.Size(46, 13)
+        Me.lblEstado.TabIndex = 25
+        Me.lblEstado.Text = "Estado: "
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(808, 340)
+        Me.ClientSize = New System.Drawing.Size(883, 583)
+        Me.Controls.Add(Me.lblEstado)
+        Me.Controls.Add(Me.btn9)
+        Me.Controls.Add(Me.btn8)
+        Me.Controls.Add(Me.btn7)
+        Me.Controls.Add(Me.btn6)
+        Me.Controls.Add(Me.btn5)
+        Me.Controls.Add(Me.btn4)
+        Me.Controls.Add(Me.btn3)
+        Me.Controls.Add(Me.btn2)
+        Me.Controls.Add(Me.btn1)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Button5)
         Me.Controls.Add(Me.Label3)
@@ -224,5 +325,14 @@ Partial Class Form1
     Friend WithEvents Label3 As System.Windows.Forms.Label
     Friend WithEvents Button5 As System.Windows.Forms.Button
     Friend WithEvents Label4 As System.Windows.Forms.Label
-
+    Friend WithEvents btn9 As Button
+    Friend WithEvents btn8 As Button
+    Friend WithEvents btn7 As Button
+    Friend WithEvents btn6 As Button
+    Friend WithEvents btn5 As Button
+    Friend WithEvents btn4 As Button
+    Friend WithEvents btn3 As Button
+    Friend WithEvents btn2 As Button
+    Friend WithEvents btn1 As Button
+    Friend WithEvents lblEstado As Label
 End Class
