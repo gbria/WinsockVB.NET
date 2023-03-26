@@ -1,0 +1,69 @@
+C:\Users\usuari\documents\visual studio 2010\Projects\WindowsApplication5\WindowsApplication5\obj\x86\Debug\Interop.MSWinsockLib.dll
+C:\Users\usuari\documents\visual studio 2010\Projects\WindowsApplication5\WindowsApplication5\obj\x86\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\usuari\documents\visual studio 2010\Projects\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.vbproj.ResolveComReference.cache
+C:\Users\usuari\documents\visual studio 2010\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\usuari\documents\visual studio 2010\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\usuari\documents\visual studio 2010\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\usuari\documents\visual studio 2010\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\usuari\documents\visual studio 2010\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\usuari\documents\visual studio 2010\Projects\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\usuari\documents\visual studio 2010\Projects\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\usuari\documents\visual studio 2010\Projects\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\usuari\documents\visual studio 2010\Projects\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.exe
+C:\Users\usuari\documents\visual studio 2010\Projects\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.xml
+C:\Users\usuari\documents\visual studio 2010\Projects\WindowsApplication5\WindowsApplication5\obj\x86\Debug\WindowsApplication5.pdb
+C:\Users\usuari\Documents\Visual Studio 2010\Projects\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\Interop.MSWinsockLib.dll
+C:\Users\usuari\Documents\Visual Studio 2010\Projects\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\usuari\Documents\Visual Studio 2010\Projects\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\WindowsApplication5.vbproj.ResolveComReference.cache
+C:\Users\usuari\Documents\Visual Studio 2010\Projects\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\WindowsApplication5.exe
+C:\Users\usuari\Documents\Visual Studio 2010\Projects\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\WindowsApplication5.xml
+C:\Users\usuari\Documents\Visual Studio 2010\Projects\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\WindowsApplication5.pdb
+C:\Users\usuari\Documents\Visual Studio 2010\Projects\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\usuari\Documents\Visual Studio 2010\Projects\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\usuari\Documents\Visual Studio 2010\Projects\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\usuari\Documents\Visual Studio 2010\Projects\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\usuari\Documents\Visual Studio 2010\Projects\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\usuari\Documents\Visual Studio 2010\Projects\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\usuari\Documents\Visual Studio 2010\Projects\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\usuari\Documents\Visual Studio 2010\Projects\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\usuari\Downloads\WINSOCK  CLIENT_SERVIDOR 2014\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\Interop.MSWinsockLib.dll
+C:\Users\usuari\Downloads\WINSOCK  CLIENT_SERVIDOR 2014\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\usuari\Downloads\WINSOCK  CLIENT_SERVIDOR 2014\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\WindowsApplication5.vbproj.ResolveComReference.cache
+C:\Users\usuari\Downloads\WINSOCK  CLIENT_SERVIDOR 2014\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\WindowsApplication5.exe
+C:\Users\usuari\Downloads\WINSOCK  CLIENT_SERVIDOR 2014\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\WindowsApplication5.xml
+C:\Users\usuari\Downloads\WINSOCK  CLIENT_SERVIDOR 2014\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\WindowsApplication5.pdb
+C:\Users\usuari\Downloads\WINSOCK  CLIENT_SERVIDOR 2014\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\usuari\Downloads\WINSOCK  CLIENT_SERVIDOR 2014\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\usuari\Downloads\WINSOCK  CLIENT_SERVIDOR 2014\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\usuari\Downloads\WINSOCK  CLIENT_SERVIDOR 2014\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\usuari\Downloads\WINSOCK  CLIENT_SERVIDOR 2014\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\usuari\Downloads\WINSOCK  CLIENT_SERVIDOR 2014\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\usuari\Downloads\WINSOCK  CLIENT_SERVIDOR 2014\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\usuari\Downloads\WINSOCK  CLIENT_SERVIDOR 2014\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Downloads\WINSOCK  CLIENT_SERVIDOR 2015\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\Interop.MSWinsockLib.dll
+C:\Users\Usuario\Downloads\WINSOCK  CLIENT_SERVIDOR 2015\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Usuario\Downloads\WINSOCK  CLIENT_SERVIDOR 2015\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\WindowsApplication5.vbproj.ResolveComReference.cache
+C:\Users\Usuario\Downloads\WINSOCK  CLIENT_SERVIDOR 2015\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\WindowsApplication5.exe
+C:\Users\Usuario\Downloads\WINSOCK  CLIENT_SERVIDOR 2015\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\WindowsApplication5.xml
+C:\Users\Usuario\Downloads\WINSOCK  CLIENT_SERVIDOR 2015\WINSOCK  CLIENT_SERVIDOR 2014\WindowsApplication5\obj\x86\Debug\WindowsApplication5.pdb
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\obj\x86\Debug\Interop.MSWinsockLib.dll
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\obj\x86\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\obj\x86\Debug\WindowsApplication5.vbproj.ResolveComReference.cache
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\obj\x86\Debug\WindowsApplication5.exe
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\obj\x86\Debug\WindowsApplication5.xml
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\obj\x86\Debug\WindowsApplication5.pdb
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\obj\x86\Debug\WindowsApplication5.vbprojResolveAssemblyReference.cache
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\obj\x86\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR - copia\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\obj\x86\Debug\Interop.MSWinsockLib.dll
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR - copia\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\obj\x86\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR - copia\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\obj\x86\Debug\WindowsApplication5.vbproj.ResolveComReference.cache
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR - copia\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\obj\x86\Debug\WindowsApplication5.exe
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR - copia\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\obj\x86\Debug\WindowsApplication5.xml
+C:\Users\germa\Desktop\DAM\DAM2\M9 Seguridad\WINSOCK  CLIENT_SERVIDOR - copia\WINSOCK  CLIENT_SERVIDOR\WindowsApplication5\obj\x86\Debug\WindowsApplication5.pdb
